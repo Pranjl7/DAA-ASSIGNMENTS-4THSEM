@@ -37,10 +37,30 @@ DAA-ASSIGNMENTS-4THSEM/
 │   │   ├── Question10.py
 │   │   ├── Question11.py
 │   │   └── Question12.py
-│   └── week-5/
-│       ├── Question13.py
-│       ├── Question14.py
-│       └── Question15.py
+│   ├── week-5/
+│   │   ├── Question13.py
+│   │   ├── Question14.py
+│   │   └── Question15.py
+│   ├── week-6/
+│   │   ├── Question16.py
+│   │   ├── Question17.py
+│   │   └── Question18.py
+│   ├── week-7/
+│   │   ├── Question19.py
+│   │   ├── Question20.py
+│   │   └── Question21.py
+│   ├── week-8/
+│   │   ├── Question22.py
+│   │   ├── Question23.py
+│   │   └── Question24.py
+│   ├── week-9/
+│   │   ├── Question25.py
+│   │   ├── Question26.py
+│   │   └── Question27.py
+│   └── week-10/
+│       ├── Question28.py
+│       ├── Question29.py
+│       └── Question30.py
 └── README.md
 ```
 
@@ -54,4 +74,4 @@ This repository is being submitted as coursework for evaluation by **Professor A
 
 ---
 
-_Last Updated: February 23, 2026_
+_Last Updated: May 21, 2026_
